@@ -41,7 +41,7 @@ npm install
 Then, run the application in the command line and it will be available at `http://localhost:3000`.
 
 ```bash
-
+git clone https://github.com/razalrahmanp/GPT_room_NEXT.js_13.git
 
 npm run dev
 ```
