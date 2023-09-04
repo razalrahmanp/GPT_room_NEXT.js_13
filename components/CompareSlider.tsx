@@ -1,3 +1,5 @@
+/* The code is importing two components, `ReactCompareSlider` and `ReactCompareSliderImage`, from the
+"react-compare-slider" library. */
 import {
   ReactCompareSlider,
   ReactCompareSliderImage,
